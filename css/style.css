@@ -9,7 +9,7 @@ header {
 body {
   margin: 0px;
   padding: 0px;
-  background: url(/images/cat1.jpg);
+  background: url("images/cat1.jpg");
   color: aliceblue;
   font-family: "PT Sans", sans-serif;
 }
